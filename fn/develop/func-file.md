@@ -48,7 +48,7 @@ triggers:
 
 **memory:** (Optional) Maximum memory threshold for this
 function. If this function exceeds this limit during execution, it is stopped
-and error message is logged. Set this value in multiples of 64. The maximum memory value allowed is `8` (GB) and the default value is `128` (MB).
+and error message is logged. Set this value in multiples of 64. The maximum memory value allowed is 8 (GB) and the default value is 128 (MB).
 
 **timeout:** (Optional) Maximum runtime allowed for this function in seconds. The maximum value is 300 and the default values is 30.
 
