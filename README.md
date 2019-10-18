@@ -29,7 +29,7 @@ If you are a developer using Fn, this section is for you. For operating Fn, see 
 * [Fn FDKs](fn/develop/fdks.md): Function Development Kits for supported languages.
 * [Running Fn Client for Windows](fn/develop/running-fn-client-windows.md): Run the Fn client on Microsoft Windows.
 * [Triggers](fn/develop/triggers.md): Using triggers.
-* [Troubleshooting](fn/troubleshoot/README.md): Solution to the most common problems working with Fn.
+* [Troubleshooting](fn/troubleshoot/README.md): Solution to common problems when working with Fn.
 
 
 ### Examples
